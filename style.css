@@ -1,0 +1,50 @@
+body {
+    
+    margin: 0;
+    padding: 0;
+}
+
+.fundo {
+    background-image: url('https://th.bing.com/th/id/OIP.CwDjS6-rcmRtGVS_wO4bowHaEK?rs=1&pid=ImgDetMain');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 280vh; 
+    color: white;
+
+    opacity: 1.0;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+input {
+    width: 45%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
