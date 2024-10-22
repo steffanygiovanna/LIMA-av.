@@ -48,3 +48,13 @@ input {
     border-radius: 4px;
 }
 
+.button {
+    padding: 15px 30px; 
+    font-size: 18px;
+    width: 200px;
+    border: none;
+    background-color: #dab8ab; 
+    color: white; 
+    cursor: pointer; 
+    border-radius: 5px; 
+}
